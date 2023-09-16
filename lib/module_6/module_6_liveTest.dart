@@ -45,96 +45,30 @@ class ListApp extends StatelessWidget {
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              SizedBox(
-                height: 10,
+              ListTile(
+                title: Text('Apples'),
+
+                leading: Icon(Icons.shopping_basket),
               ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.start,
-                children: [
-                  Icon(Icons.shopping_basket),
-                  SizedBox(
-                    width: 25,
-                  ),
-                  Text(
-                    'Apples',
-                    style: TextStyle(
-                      fontSize: 22,
-                    ),
-                  ),
-                ],
+              ListTile(
+                title: Text('Bannas'),
+
+                leading: Icon(Icons.shopping_basket),
+              ),ListTile(
+                title: Text('Bread'),
+
+                leading: Icon(Icons.shopping_basket),
+              ),ListTile(
+                title: Text('Milk'),
+
+                leading: Icon(Icons.shopping_basket),
               ),
-              SizedBox(
-                height: 10,
+              ListTile(
+                title: Text('Eggs'),
+
+                leading: Icon(Icons.shopping_basket),
               ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.start,
-                children: [
-                  Icon(Icons.shopping_basket),
-                  SizedBox(
-                    width: 25,
-                  ),
-                  Text(
-                    'Bannas',
-                    style: TextStyle(
-                      fontSize: 22,
-                    ),
-                  ),
-                ],
-              ),
-              SizedBox(
-                height: 10,
-              ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.start,
-                children: [
-                  Icon(Icons.shopping_basket),
-                  SizedBox(
-                    width: 25,
-                  ),
-                  Text(
-                    'Bread',
-                    style: TextStyle(
-                      fontSize: 22,
-                    ),
-                  ),
-                ],
-              ),
-              SizedBox(
-                height: 10,
-              ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.start,
-                children: [
-                  Icon(Icons.shopping_basket),
-                  SizedBox(
-                    width: 25,
-                  ),
-                  Text(
-                    'Milk',
-                    style: TextStyle(
-                      fontSize: 22,
-                    ),
-                  ),
-                ],
-              ),
-              SizedBox(
-                height: 10,
-              ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.start,
-                children: [
-                  Icon(Icons.shopping_basket),
-                  SizedBox(
-                    width: 25,
-                  ),
-                  Text(
-                    'Eggs',
-                    style: TextStyle(
-                      fontSize: 22,
-                    ),
-                  ),
-                ],
-              ),
+
             ],
           ),
         ],
