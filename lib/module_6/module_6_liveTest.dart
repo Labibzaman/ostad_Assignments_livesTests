@@ -42,34 +42,28 @@ class ListApp extends StatelessWidget {
       ),
       body: ListView(
         children: [
-          Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              ListTile(
-                title: Text('Apples'),
+          ListTile(
+            title: Text('Apples'),
 
-                leading: Icon(Icons.shopping_basket),
-              ),
-              ListTile(
-                title: Text('Bannas'),
+            leading: Icon(Icons.shopping_basket),
+          ),
+          ListTile(
+            title: Text('Bannas'),
 
-                leading: Icon(Icons.shopping_basket),
-              ),ListTile(
-                title: Text('Bread'),
+            leading: Icon(Icons.shopping_basket),
+          ),ListTile(
+            title: Text('Bread'),
 
-                leading: Icon(Icons.shopping_basket),
-              ),ListTile(
-                title: Text('Milk'),
+            leading: Icon(Icons.shopping_basket),
+          ),ListTile(
+            title: Text('Milk'),
 
-                leading: Icon(Icons.shopping_basket),
-              ),
-              ListTile(
-                title: Text('Eggs'),
+            leading: Icon(Icons.shopping_basket),
+          ),
+          ListTile(
+            title: Text('Eggs'),
 
-                leading: Icon(Icons.shopping_basket),
-              ),
-
-            ],
+            leading: Icon(Icons.shopping_basket),
           ),
         ],
       ),
