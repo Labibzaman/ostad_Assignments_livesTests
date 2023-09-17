@@ -24,7 +24,7 @@ class GalleryApp extends StatelessWidget {
       appBar: AppBar(
        title: Center(
            child:
-           Text('Photo Gallery')
+           Text('Photo Gallery ')
        ),
       ),
 
