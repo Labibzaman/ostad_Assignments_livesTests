@@ -1,4 +1,4 @@
-# ostad_course_al
+# Ostad Photos Gallery
 
 Photos Gallery App Screenshots
 
