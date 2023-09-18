@@ -2,8 +2,10 @@
 
 Photos Gallery App Screenshots
 
-<img src="https://drive.google.com/uc?export=view&id=1-F38DzXiA_S-_PomDZ-Cudt5d-mwLqBD" width="400">
-<img src="https://drive.google.com/uc?export=view&id=1-GFamowGGzHV9HdsMip3tYAngJJRtuvq" width="400">
+<div style="display: flex;">
+    <img src="https://drive.google.com/uc?export=view&id=1-F38DzXiA_S-_PomDZ-Cudt5d-mwLqBD" width="300" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=view&id=1-GFamowGGzHV9HdsMip3tYAngJJRtuvq" width="300">
+</div>
 
 
 ## Getting Started
