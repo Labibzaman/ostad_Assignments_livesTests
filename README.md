@@ -1,7 +1,12 @@
-# ostad_course_al
+# Ostad Photos Gallery
 
-A new Flutter project.
-![Screenshot 2023-09-16 232820](https://github.com/Labibzaman/ostad_Assignments_livesTests/assets/134608314/c97b90d8-61ef-46d2-85e2-f49f0600ba50)
+Photos Gallery App Screenshots
+
+<div style="display: flex;">
+    <img src="https://drive.google.com/uc?export=view&id=1-F38DzXiA_S-_PomDZ-Cudt5d-mwLqBD" width="300" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=view&id=1-GFamowGGzHV9HdsMip3tYAngJJRtuvq" width="300">
+</div>
+
 
 ## Getting Started
 
